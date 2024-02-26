@@ -1,5 +1,5 @@
 {
-    "name": "dicc",
+    "name": "tetris",
     "description": "",
     "dependencies": {
         "core": "*",
